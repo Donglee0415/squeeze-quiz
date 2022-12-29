@@ -2,7 +2,7 @@
 
 ## Description
  
-* 
+* Squeeze your knowledge for solve quiz! This quiz help 
 
 * 
 

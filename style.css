@@ -14,8 +14,8 @@
   
   body {
   font-family: 'Courier New', Courier, monospace;
-  background-color: rgb(white);
-  color: rgb(4, 91, 91);
+  background-color: rgb(28, 31, 51);
+  color: rgb(234, 243, 243); /*question and time etc*/
   }
   
   /* Styling for Header */
