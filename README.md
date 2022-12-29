@@ -2,9 +2,9 @@
 
 ## Description
  
-* Squeeze your knowledge for solve quiz! This quiz help 
+* Squeeze your knowledge for solve quiz! This quiz help your code study
 
-* 
+* Test your limit about your code knowledge!
 
 
 ---
@@ -36,11 +36,12 @@
 
 ## Demo
 
-![Demo Image](./Develop/image/Password%20generator.png)
-![Demo Image](./Develop/image/Password%20generator2.png)
+![Demo Image](./Image/squeeze-quiz_index.html.png)
+![Demo Image](./Image/squeeze-quiz_index.html%20(1).png)
+![Demo Image](./Image/squeeze-quiz_index.html%20(2).png)
 
 
 ---
 
-Deployment: 
+Deployment: https://donglee0415.github.io/squeeze-quiz/
 
